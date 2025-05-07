@@ -1,4 +1,4 @@
-# bookauthorapp
+# bookauthor Management
 
 A Spring Boot CRUD application for managing books and authors with MySQL database.
 
